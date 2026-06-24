@@ -1,2 +1,1 @@
-Add a new line to main.
 Add line from main branch to sample.txt
